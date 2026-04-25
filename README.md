@@ -5,7 +5,7 @@ A machine learning project built as part of the **Design Thinking & Innovation (
 
 ## Acknowledgements
 
-We thank our project mentor **Mrs. Swati Hans** (School of Engineering & Technology, Manav Rachna University) for her continuous guidance and feedback throughout the DTI project lifecycle.
+We thank our project mentor **Mrs. Swati Hans** (School of Engineering & Technology,Manav Rachna International Institute of Research and Studies) for her continuous guidance and feedback throughout the DTI project lifecycle.
 
 ---
 **Live App →** [smart-kishan.streamlit.app](https://smart-kishan.streamlit.app)
