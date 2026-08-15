@@ -143,7 +143,7 @@ st.markdown("""
   <div class="header-icon">🌾</div>
   <div>
     <div class="header-title">KrishiDarshan</div>
-    <div class="header-sub">Climate-Aware Crop Recommendation · Manav Rachna University DTI Project 2024</div>
+    <div class="header-sub">Climate-Aware Crop Recommendation ·</div>
     <span class="header-badge">35,364 records · 47 crops · 6 states · 2011–2025</span>
   </div>
 </div>
